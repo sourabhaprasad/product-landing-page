@@ -10,7 +10,7 @@ index.html: The main HTML file containing the structure of the job application f
 styles.css: The stylesheet file that defines the visual appearance of the form.
 
 # Preview
-Check out the live preview [here](https://souri-droid.github.io/product-landing-page/).
+Check out the live preview [here]([https://souri-droid.github.io/product-landing-page/](https://sourabhaprasad.github.io/product-landing-page/)).
 
 ## Screenshots
 <div>
